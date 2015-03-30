@@ -16,8 +16,8 @@ body {
 }
 
 canvas {
-	height: 552px;
-	width: 422px;
+	height: 1000px;
+	width: 500px;
 	display: block;
 	background: url(http://i.imgur.com/Y0BMP.png) top left;
 }
