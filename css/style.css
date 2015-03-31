@@ -60,11 +60,11 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 10em 0;
+		color: #f0f8ff;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
@@ -80,6 +80,8 @@
 	}
 
 	h2 {
+		font-weight: bold;
+		color: #f0f8ff;
 		font-size: 2em;
 		line-height: 1.35em;
 	}
@@ -1030,6 +1032,27 @@
   /* background-attachment: fixed; */
   background-image: url("http://bestgameswallpapers.com/wp-content/uploads/2014/08/gaming-wallpaper-c6nih1hx.jpg");
   background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+#one {background-image: url("http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_2.jpg");
+background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  }
+#two {background-image: url("http://cdn.images.express.co.uk/img/dynamic/67/590x/cristiano-ronaldo-553153.jpg");
+ background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+#three {background-image: url("http://s.pro-gmedia.com/videogamer/media/images/pub/605x/gta111.jpg");
+ background-position: center;
   background-size: cover;
   overflow: hidden;
   position: relative;
