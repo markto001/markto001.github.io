@@ -977,7 +977,7 @@
 				.main.style2 input[type="button"]:hover,
 				.main.style2 button:hover,
 				.main.style2 .button:hover {
-					background-color: rgba(255, 255, 255, 0.125);
+					background-color: #ffffff(255, 255, 255, 0.125);
 				}
 
 				.main.style2 input[type="submit"]:active,
