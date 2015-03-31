@@ -938,8 +938,8 @@
 		.main.style2 {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
-			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../images/header.jpg");
+			background-attachment: fixed;
+			background-image: url("http://www.basf-new-business.com/fileadmin/user_upload/Bilder/Home/future.jpg")
 			background-size: auto,							cover;
 		}
 
