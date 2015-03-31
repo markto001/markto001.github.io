@@ -4,6 +4,7 @@
 
 body {
 	margin: 0; padding: 0;
+
 	font-family: 'Gloria Hallelujah', cursive;
 }
 
@@ -16,8 +17,8 @@ body {
 }
 
 canvas {
-	height: 1000px;
-	width: 500px;
+	height: 552px;
+	width: 422px;
 	display: block;
 	background: url(http://i.imgur.com/Y0BMP.png) top left;
 }
